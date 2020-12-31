@@ -1,0 +1,38 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:Lobster;
+}
+body{
+	background-color:#2d2b3d;
+}
+@font-face{
+	font-family:Lobster;
+	src: url(Lobster-Regular.ttf)
+}
+.header{
+	margin:0px auto;
+	width:80%;
+	height: 60px;
+	text-align:center;
+	margin-bottom:100px;
+}
+h1{
+	margin:10px 0px;
+}
+#clr1{
+	color:#fc00f8;
+}
+#clr2{
+	color:#00fcfc;
+}
+#clr3{
+	color:#fc8b00;
+}
+.content{
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+	width:80%;
+	margin: 0px auto;
+}
